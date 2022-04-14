@@ -1,0 +1,56 @@
+/* Joe Stepan 04/12/2022 */
+
+  .mystyles1 {
+    text-decoration: underline;
+    text-align:center;
+  }
+  
+  .mystyles2 {
+    font-weight: bold;
+  }
+   
+   .mystyles3 {
+     font-style: italic;
+     font-weight: 100;
+   }
+
+   .mystyles4 {
+     color:darkslategray;
+     text-decoration: underline;
+   }
+
+   .mystyles5 {
+     color:darkslategray;
+     font-style:italic;
+   }
+
+   .mystyles6 {
+     font-style:italic;
+   }
+  
+   .anchorlinks {
+     color: white;
+   }
+  
+   .anchorlinks:hover {
+     color:#006a81;
+     font-style: italic;
+   }
+
+   .center{
+       text-align: center;
+   }
+
+   .intextlinks {
+       text-decoration: underline;
+   }
+
+   .intextlinks:hover {
+       font-style: italic;
+   }
+
+  .center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
